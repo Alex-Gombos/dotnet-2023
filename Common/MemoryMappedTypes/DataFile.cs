@@ -1,4 +1,4 @@
-using System.IO.MemoryMappedFiles;
+﻿using System.IO.MemoryMappedFiles;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
